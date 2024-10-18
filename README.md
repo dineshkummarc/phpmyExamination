@@ -1,1 +1,2 @@
-# OnlineExaminationCI
+# phpmyExamination
+formerly OnlineExaminationCI
