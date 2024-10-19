@@ -1,2 +1,2 @@
 # phpmyExamination
-formerly OnlineExaminationCI
+formerly OnlineExaminationCI, Works fine on php7.2.33.
